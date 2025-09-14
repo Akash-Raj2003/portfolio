@@ -136,7 +136,7 @@ h2::selection {
 
 /* project 1 */
 .card:nth-child(1) {
-  background: url(../assets/project/project-one.png) center center/cover;
+  background: url(../assets/project/Year3_Project_1.png) center center/cover;
 }
 
 /* Project 2 */
@@ -164,6 +164,26 @@ h2::selection {
   background: url(../assets/project/project-six.png) center center/cover;
 }
 
+/* Experience Images - Specific to Experience Section */
+#experience .card:nth-child(1) {
+  background: url(../assets/experience/project-five.png) center center/cover;
+}
+
+#experience .card:nth-child(2) {
+  background: url(../assets/experience/exp-two.png) center center/cover;
+}
+
+#experience .card:nth-child(3) {
+  background: url(../assets/experience/exp-three.png) center center/cover;
+}
+
+#experience .card:nth-child(4) {
+  background: url(../assets/experience/exp-four.png) center center/cover;
+}
+
+#experience .card:nth-child(5) {
+  background: url(../assets/experience/exp-five.png) center center/cover;
+}
 /* Media Queries */
 @media (max-width: 768px) {
   .header-container {
